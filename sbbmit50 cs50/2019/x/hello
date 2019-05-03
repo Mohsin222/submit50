@@ -1,0 +1,8 @@
+$ printf("hello,%s\n",name);
+bash: syntax error near unexpected token `"hello,%s\n",name'
+$ #INCLUDE<CS50.H>
+$ SUBMIT50 CS50/2019/x/hellobash: SUBMIT50: command not found
+$ submit50
+usage: submit50 [-h] [-v] slug
+submit50: error: the following arguments are required: slug
+$ 
